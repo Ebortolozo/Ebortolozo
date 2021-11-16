@@ -75,7 +75,7 @@
 <details>
   <summary><b>⚡ Atividade Recente</b></summary>
   <br/>
-   <a href="https://github.com/ebortolozo"><img alt="Grafico de Atividade de Ebortolozo" src="https://activity-graph.herokuapp.com/graph?username=ebortolozo&custom_title=Gráfico%20de%20Contribuição%20de%20Ebortolozo&theme=react-dark" /></a>
+   <a href="https://github.com/ebortolozo"><img alt="Grafico de Atividade de Ebortolozo" src="https://activity-graph.herokuapp.com/graph?username=ebortolozo&custom_title=Grafico%20de%20Contribuicao%20de%20Ebortolozo&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -84,7 +84,6 @@
 
 ## 🙋‍♀️ Vamos nos Conectar!!!
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:ewertonbortolozo2009@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ebortolozo"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ewerton-bortolozo-nunes-júnior-766a80212/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
