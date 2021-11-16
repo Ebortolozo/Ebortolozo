@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Estagio na faculdade Faesa desde março de 2021. Gostod de Programar, Inovar e Experimentar(Já testei todas as linguagems possiveis). Sou uma pessoa tranquila e sociavel, AMO desafios e aprender coisas novas. Gosto de conhecer pessoas novas, trocar uma ideia e compartilhar meus conhecimentos(mesmo que ainda não seja muito);
+<h4 align="center">Eu estagio na faculdade Faesa desde março de 2021. Gosto de Programar, Inovar e Experimentar(Já testei todas as linguagens possíveis). Sou uma pessoa tranquila e sociável, AMO desafios e aprender coisas novas. Gosto de conhecer pessoas novas, trocar uma ideia e compartilhar meus conhecimentos(mesmo que ainda não seja muito);
 <br>
 
 ## 🔥 Streak Stats
@@ -54,44 +54,40 @@
 </p>
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estatísticas (Expanda Para Ver) 
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Estatísticas do Meu GitHub </b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/ebortolozo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebortolozo&show_icons=true&locale=en&theme=algolia" alt="ebortolozo" height="192px"/></a>
+    <a href="https://github.com/ebortolozo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebortolozo&show_icons=true&locale=en&theme=synthwave" alt="ebortolozo" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebortolozo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ebortolozo" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebortolozo&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="ebortolozo" height="192px"/>
 	</p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.(bilíngue)
   </p>
 </details>
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Atividade Recente</b></summary>
   <br/>
-   <a href="https://github.com/ebortolozo"><img alt="Grafico de Atividade de Ebortolozo" src="https://activity-graph.herokuapp.com/graph?username=ebortolozo&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ebortolozo"><img alt="Grafico de Atividade de Ebortolozo" src="https://activity-graph.herokuapp.com/graph?username=ebortolozo&custom_title=Gráfico%20de%20Contribuição%20de%20Ebortolozo&theme=react-dark" /></a>
   <br/>
 
 </details>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Vamos nos Conectar!!!
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+	<a href="mailto:ewertonbortolozo2009@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/ebortolozo"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ewerton-bortolozo-nunes-júnior-766a80212/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>
 
 
